@@ -1,1 +1,1 @@
-This project is to write a library that contains basic operations and algorithms in Linear Algebra. It will almost certainly be buggy and not optimised, the goal here is to practice the basics of Python, OOP and Numpy.
+This project is a library that contains basic operations and algorithms in Linear Algebra. It will almost certainly be buggy and not optimised, the goal here is to practice the basics of Python, OOP and Numpy. (I have only been learning coding for a month or so haha)
